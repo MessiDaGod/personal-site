@@ -17,7 +17,7 @@ const data = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    value: '0',
+    value: '1',
     link: 'https://github.com/messidagod/personal-site/stargazers',
   }, {
     label: 'Number of people watching this repository',
@@ -51,7 +51,7 @@ const data = [
   { /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
-    value: '2625',
+    value: '3622',
     link: 'https://github.com/messidagod/personal-site/graphs/contributors',
   },
 ];

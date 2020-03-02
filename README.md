@@ -76,11 +76,9 @@ Please feel free to reach out to me by filing an issue or at help@messidagod.com
 ## Contributors
 
 * [@messidagod](https://github.com/messidagod)
-* [@typpo](https://github.com/typpo)
 
 ## Acknowledgements
 
-* Special thanks to [@typpo](https://github.com/typpo) for tirelessly answering all of my node.js and react questions.
 * Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
 
 ## License
